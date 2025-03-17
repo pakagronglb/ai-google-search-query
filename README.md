@@ -1,5 +1,7 @@
 # AI Google Search Query Generator
 
+https://github.com/user-attachments/assets/a3f73332-2d13-4614-a8ef-b048a96e358e
+
 [![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/PyQt-6-green.svg)](https://www.riverbankcomputing.com/software/pyqt/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-orange.svg)](https://openai.com/)
